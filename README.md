@@ -7,7 +7,9 @@ Welcome to my profile, I am an electrical engineer from the great state of Oklah
 ## About Me
 
 **Location:** Oklahoma, USA
+
 **Profession:** Electrical Engineer
+
 **Interests:** 
 - Communication Systems
 - AI
