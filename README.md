@@ -1,16 +1,17 @@
-## Hi there 👋
+# Gray-Viper
 
-<!--
-**Gray-Viper/Gray-Viper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Electrical Engineer from Oklahoma
 
-Here are some ideas to get you started:
+Welcome to my profile, I am an electrical engineer from the great state of Oklahoma, working in aerospace.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+**Location:** Oklahoma, USA
+**Profession:** Electrical Engineer
+**Interests:** 
+- Communication Systems
+- AI
+
+## Learning Journey
+
+I'm currently refreshing my education and expanding my horizons into software here!
